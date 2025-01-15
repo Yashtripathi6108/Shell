@@ -35,8 +35,15 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Yashtripathi6108/Shell.git
 cd Shell
+```
 
----
+### Step 2: Run Shell
+
+Now run following command:
+
+```bash
+go run main.go
+```
 
 ## Running with Docker
 
@@ -50,10 +57,9 @@ Once Docker is installed, build the Docker image from the project directory:
 
 ```bash
 docker build -t Shell .
+```
 
-### Step 1: Run the Docker Image in interactive mode
+### Step 2: Run the Docker Image in interactive mode
 
 ```bash
 docker run -it Shell
-
----

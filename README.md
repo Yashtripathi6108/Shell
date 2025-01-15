@@ -36,6 +36,7 @@ Clone the repository to your local machine:
 git clone https://github.com/Yashtripathi6108/Shell.git
 cd Shell
 
+---
 
 ## Running with Docker
 
@@ -55,3 +56,4 @@ docker build -t Shell .
 ```bash
 docker run -it Shell
 
+---

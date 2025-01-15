@@ -2,7 +2,8 @@ package builtins
 
 import (
 	"fmt"
-	"github.com/sanurb/go-shell/internal/shell/commands"
+
+	"github.com/Yashtripathi6108/go-shell/internal/shell/commands"
 )
 
 type TypeCommand struct {

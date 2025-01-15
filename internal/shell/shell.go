@@ -5,9 +5,10 @@ import (
 	"os"
 	"strings"
 
+	"github.com/Yashtripathi6108/go-shell/internal/shell/registry"
+	"github.com/Yashtripthi6108/go-shell/internal/shell/parser"
+
 	"github.com/fatih/color"
-	"github.com/sanurb/go-shell/internal/shell/parser"
-	"github.com/sanurb/go-shell/internal/shell/registry"
 )
 
 type Shell struct {

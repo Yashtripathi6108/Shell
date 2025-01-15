@@ -1,4 +1,4 @@
-module github.com/sanurb/go-shell
+module github.com/Yashtripathi6108/go-shell
 
 go 1.22
 

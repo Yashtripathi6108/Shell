@@ -1,8 +1,9 @@
 package builtins
 
 import (
-	"github.com/sanurb/go-shell/internal/shell/commands"
 	"os"
+
+	"github.com/Yashtripathi6108/go-shell/internal/shell/commands"
 )
 
 type ExitCommand struct {

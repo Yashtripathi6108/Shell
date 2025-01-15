@@ -1,6 +1,6 @@
 package pipeline
 
-import "github.com/sanurb/go-shell/internal/shell/commands"
+import "github.com/Yashtripathi6108/go-shell/internal/shell/commands"
 
 type Pipeline struct {
 	Commands []commands.Command

@@ -1,9 +1,10 @@
 package parser
 
 import (
-	"github.com/sanurb/go-shell/internal/shell/commands"
-	"github.com/sanurb/go-shell/internal/shell/registry"
 	"strings"
+
+	"github.com/Yashtripathi6108/go-shell/internal/shell/commands"
+	"github.com/Yashtripathi6108/go-shell/internal/shell/registry"
 )
 
 type CommandParser struct {

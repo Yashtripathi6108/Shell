@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sanurb/go-shell/internal/shell/commands"
+	"github.com/Yashtripathi6108/go-shell/internal/shell/commands"
 )
 
 type CdCommand struct {

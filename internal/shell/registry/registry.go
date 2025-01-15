@@ -2,9 +2,10 @@ package registry
 
 import (
 	"fmt"
-	"github.com/sanurb/go-shell/internal/shell/builtins"
-	"github.com/sanurb/go-shell/internal/shell/commands"
 	"io"
+
+	"github.com/Yashtripathi6108/go-shell/internal/shell/builtins"
+	"github.com/Yashtripathi6108/go-shell/internal/shell/commands"
 )
 
 type CommandFactory struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Yashtripathi6108/go-shell/internal/shell/builtins"
-	"github.com/Yashtripathi6108/go-shell/internal/shell/commands"
+	"github.com/Yashtripathi6108/Shell/internal/shell/builtins"
+	"github.com/Yashtripathi6108/Shell/internal/shell/commands"
 )
 
 type CommandFactory struct {

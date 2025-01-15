@@ -5,8 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Yashtripathi6108/go-shell/internal/shell/registry"
-	"github.com/Yashtripthi6108/go-shell/internal/shell/parser"
+	"github.com/Yashtripathi6108/Shell/internal/shell/registry"
+
+	"github.com/Yashtripathi6108/Shell/internal/shell/parser"
 
 	"github.com/fatih/color"
 )
